@@ -2,6 +2,8 @@
 
 India Data Explorer is a Streamlit web application that provides interactive visualizations of various demographic parameters for states and districts in India.
 
+[Deploy Link](https://india-data-explorer-ds9wspo7doe88dzgadsdyk.streamlit.app/)
+
 ## Overview
 
 India Data Explorer allows users to explore demographic data such as population, literacy rate, sex ratio, internet access, and electricity access across different states and districts of India. Users can select different parameters and visualize the data on an interactive map along with additional graphs for detailed insights.
